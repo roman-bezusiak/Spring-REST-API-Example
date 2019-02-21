@@ -62,7 +62,7 @@ Go to **Headers > Custom Header** and enter the following values:
 
 Tick the **Favorite header** checkbox and press **Okay**.
 
-Open another tab with address **http://localhost:port/partners**, where **port** is the port that you have entered in the **_application.properties_** file's field **spring.datasource.url**.
+Open another tab with address **http://localhost:8080/partners**.
 
 ##### GET ALL
 
