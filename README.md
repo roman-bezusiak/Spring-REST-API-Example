@@ -44,11 +44,12 @@ mvn package
 java -jar target/se-0.0.1-SNAPSHOT.jar
 ```
 
-4. To stop the app, press **Ctrl + C** in the terminal
+4. To stop the app, press "**Ctrl + C**" in the terminal
 
 ### Testing
 
-You will need a browser for this purpose. **Remark: _this step should be done only is you have successfully completed the 3rd step of the previous section_**.
+You will need a browser for this purpose.
+**Remark: _this step should be done only if you have successfully completed the 3rd step of the previous section_**.
 
 #### Firefox
 
@@ -59,7 +60,7 @@ Go to **Headers > Custom Header** and enter the following values:
 1. Name: **Content-Type**
 2. Attribute Value: **application/json**
 
-Tick the **Favorite header** checkbox and press **Okay**
+Tick the **Favorite header** checkbox and press **Okay**.
 
 Open another tab with address **http://localhost:port/partners**, where **port** is the port that you have entered in the **_application.properties_** file's field **spring.datasource.url**.
 
