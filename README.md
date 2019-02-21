@@ -67,51 +67,51 @@ Open another tab with address **http://localhost:port/partners**, where **port**
 
 Select the following in the [**REST API add-on**](https://addons.mozilla.org/en-US/firefox/addon/restclient/?src=search) tab:
 
-![Image](.\img\GET_ALL_request.png)
+![Image](img/GET_ALL_request.png)
 
 Press **Send**. The result in the [**REST API add-on**](https://addons.mozilla.org/en-US/firefox/addon/restclient/?src=search) tab should look like this:
 
-![Image](.\img\GET_ALL_request_res.png)
+![Image](img/GET_ALL_request_res.png)
 
 ##### GET
 
 Select the following in the [**REST API add-on**](https://addons.mozilla.org/en-US/firefox/addon/restclient/?src=search) tab:
 
-![Image](.\img\GET_request.png)
+![Image](img/GET_request.png)
 
 Press **Send**. The result in the [**REST API add-on**](https://addons.mozilla.org/en-US/firefox/addon/restclient/?src=search) tab should look like this:
 
-![Image](.\img\GET_request_res.png)
+![Image](img/GET_request_res.png)
 
 ##### POST
 
 Select the following in the [**REST API add-on**](https://addons.mozilla.org/en-US/firefox/addon/restclient/?src=search) tab:
 
-![Image](.\img\POST_request.png)
+![Image](img/POST_request.png)
 
 Press **Send**. The result on the localhost should look like this:
 
-![Image](.\img\POST_request_res.png)
+![Image](img/POST_request_res.png)
 
 ##### PUT
 
 Select the following in the [**REST API add-on**](https://addons.mozilla.org/en-US/firefox/addon/restclient/?src=search) tab:
 
-![Image](.\img\PUT_request.png)
+![Image](img/PUT_request.png)
 
 Press **Send**. The result on the localhost should look like this:
 
-![Image](.\img\PUT_request_res.png)
+![Image](img/PUT_request_res.png)
 
 ##### DELETE
 
 Select the following in the [**REST API add-on**](https://addons.mozilla.org/en-US/firefox/addon/restclient/?src=search) tab:
 
-![Image](.\img\DELETE_request.png)
+![Image](img/DELETE_request.png)
 
 Press **Send**. The result on the localhost should look like this:
 
-![Image](.\img\DELETE_request_res.png)
+![Image](img/DELETE_request_res.png)
 
 ## A file manifest
 
