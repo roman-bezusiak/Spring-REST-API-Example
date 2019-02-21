@@ -50,65 +50,65 @@ java -jar target/se-0.0.1-SNAPSHOT.jar
 
 ```txt
 .
-    ├───.settings
-    │   ├───org.eclipse.core.resources.prefs
-    │   ├───org.eclipse.jdt.apt.core.prefs
-    │   ├───org.eclipse.jdt.core.prefs
-    │   ├───org.eclipse.jpt.core.prefs
-    │   ├───org.eclipse.jpt.entitygen.new-mysql.mylocal
-    │   ├───org.eclipse.m2e.core.prefs
-    │   ├───org.eclipse.wst.common.project.facet.core.prefs.xml
-    │   └───org.eclipse.wst.common.project.facet.core.xml
-    ├───bin
-    │   └───target
-    │       ├───classes
-    │       │   ├───META-INF
-    │       │   └───se
-    │       ├───generated-sources
-    │       │   └───annotations
-    │       ├───maven-archiver
-    │       └───maven-status
-    │           └───maven-compiler-plugin
-    │               └───compile
-    │                   └───default-compile
-    ├───img
-    │   ├───DELETE_request_res.png
-    │   ├───DELETE_request.png
-    │   ├───GET_ALL_request_res.png
-    │   ├───GET_ALL_request.png
-    │   ├───GET_request_res.png
-    │   ├───GET_request.png
-    │   ├───POST_request_res.png
-    │   ├───POST_request.png
-    │   ├───PUT_request_res.png
-    │   └───PUT_request.png
-    ├───src
-    │   ├───main
-    │   │   ├───java
-    │   │   │   ├───META-INF
-    │   │   │   │   ├───additional-spring-configuration-metadata.json
-    │   │   │   │   └───persistence.xml
-    │   │   │   └───se
-    │   │   │       ├───Application.java
-    │   │   │       ├───Partner.java
-    │   │   │       ├───PartnerController.java
-    │   │   │       └───PartnerRepository.java
-    │   │   └───resources
-    │   └───test
-    │       └───resources
-    ├───target
-    │   ├───classes
-    │   │   ├───META-INF
-    │   │   │   ├───additional-spring-configuration-metadata.json
-    │   │   │   └───persistence.xml
-    │   │   └───se
-    │   └───test-classes
-    ├───.classpath
-    ├───.gitignore
-    ├───.project
-    ├───partner.sql
-    ├───pom.xml
-    └───README.md
+├───.settings
+│   ├───org.eclipse.core.resources.prefs
+│   ├───org.eclipse.jdt.apt.core.prefs
+│   ├───org.eclipse.jdt.core.prefs
+│   ├───org.eclipse.jpt.core.prefs
+│   ├───org.eclipse.jpt.entitygen.new-mysql.mylocal
+│   ├───org.eclipse.m2e.core.prefs
+│   ├───org.eclipse.wst.common.project.facet.core.prefs.xml
+│   └───org.eclipse.wst.common.project.facet.core.xml
+├───bin
+│   └───target
+│       ├───classes
+│       │   ├───META-INF
+│       │   └───se
+│       ├───generated-sources
+│       │   └───annotations
+│       ├───maven-archiver
+│       └───maven-status
+│           └───maven-compiler-plugin
+│               └───compile
+│                   └───default-compile
+├───img
+│   ├───DELETE_request_res.png
+│   ├───DELETE_request.png
+│   ├───GET_ALL_request_res.png
+│   ├───GET_ALL_request.png
+│   ├───GET_request_res.png
+│   ├───GET_request.png
+│   ├───POST_request_res.png
+│   ├───POST_request.png
+│   ├───PUT_request_res.png
+│   └───PUT_request.png
+├───src
+│   ├───main
+│   │   ├───java
+│   │   │   ├───META-INF
+│   │   │   │   ├───additional-spring-configuration-metadata.json
+│   │   │   │   └───persistence.xml
+│   │   │   └───se
+│   │   │       ├───Application.java
+│   │   │       ├───Partner.java
+│   │   │       ├───PartnerController.java
+│   │   │       └───PartnerRepository.java
+│   │   └───resources
+│   └───test
+│       └───resources
+├───target
+│   ├───classes
+│   │   ├───META-INF
+│   │   │   ├───additional-spring-configuration-metadata.json
+│   │   │   └───persistence.xml
+│   │   └───se
+│   └───test-classes
+├───.classpath
+├───.gitignore
+├───.project
+├───partner.sql
+├───pom.xml
+└───README.md
 ```
 
 ### Total: 42 files
