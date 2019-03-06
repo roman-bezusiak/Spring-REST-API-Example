@@ -2,7 +2,12 @@
 
 Example of [**REST API**](https://en.wikipedia.org/wiki/REST) implemented in Java using [**Spring**](https://spring.io/projects/spring-framework) framework and a [**MySQL**](https://www.mysql.com/) database.
 
-## Configuration instructions
+## 📥 Installation instructions
+
+1. Clone the repo to your local machine
+2. Unzip the files
+
+## 🛠 Configuration instructions
 
 1. Create a file **_application.properties_**
 2. Write the following contents to the file:
@@ -22,12 +27,7 @@ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQL5Dialect
 3. Configure the fields **spring.datasource.url**, **spring.datasource.username**, and **spring.datasource.password** accoring to your settings
 4. Copy the file to directories **_./src/main/resources/_** and **_./src/test/resources/_**
 
-## Installation instructions
-
-1. Clone the repo to your local machine
-2. Unzip the files
-
-## Operating instructions
+## ⚙️ Operating instructions
 
 ### Building, launching, and shutting down
 
@@ -114,7 +114,7 @@ Press **Send**. The result on the localhost should look like this:
 
 ![Image](img/DELETE_request_res.png)
 
-## A file manifest
+## 🗃 A file manifest
 
 ### Tree
 
@@ -184,11 +184,11 @@ Press **Send**. The result on the localhost should look like this:
 
 ### Total: 33 files
 
-## Copyright and licensing information
+## ⚖️ Copyright and licensing information
 
 This project is licensed under the [**GNU General Public License**](https://en.wikipedia.org/wiki/GNU_General_Public_License). See the [**_LICENSE_**](LICENSE) file for details
 
-## Known bugs
+## ⚠️ Known bugs and troubleshooting
 
 ### _Some classes are not found, can not build_
 
@@ -220,7 +220,7 @@ mvn clean
 
 Build and launch again.
 
-## Credits and acknowledgments
+## 👏 Credits and acknowledgments
 
 ### Authors
 
