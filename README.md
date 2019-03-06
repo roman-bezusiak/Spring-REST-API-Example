@@ -114,7 +114,7 @@ Press **Send**. The result on the localhost should look like this:
 
 ![Image](img/DELETE_request_res.png)
 
-## 🗃 A file manifest
+## 🗃 File manifest
 
 ### Tree
 
